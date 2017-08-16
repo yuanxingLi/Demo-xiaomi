@@ -43,8 +43,9 @@
 	width: 54px;
 	background-color: #FF6700;
 	margin-right: 187px;
-	background-image: url(mi-logo.png);
+	background-image: url(img/mi-logo.png);
 	opacity: 1;
+	text-indent: -1000px;
 }
 .banner_middle{
 	float: left;
@@ -522,7 +523,7 @@
 	height: 58px;
 	float: left;
 	margin-right: 10px;
-	background:url(mi-logo.png) no-repeat center;
+	background:url(img/mi-logo.png) no-repeat center;
 	text-indent: -1000px;
 	background-color: red;
 }
