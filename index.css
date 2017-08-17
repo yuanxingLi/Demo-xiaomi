@@ -45,7 +45,6 @@
 	margin-right: 187px;
 	background-image: url(img/mi-logo.png);
 	opacity: 1;
-	text-indent: -1000px;
 }
 .banner_middle{
 	float: left;
@@ -483,6 +482,10 @@
 	color: gray;
 	margin-bottom: 16px;
 }
+.footer .footer_part2 a{
+	color: gray;
+	
+}
 .footer .footer_part2 .left{
 	border-right: 1px solid gray;
 	height: 150px;
@@ -539,6 +542,10 @@
 	color:#757575;
 	padding: 0 3px;
 }
+.end_des .footer_part3 .middle a:hover{
+	color:orangered;
+	
+}
 .end_des .footer_part3 p{
 	margin: 3px 0;
 }
@@ -555,8 +562,5 @@
 	padding-top: 30px;
 }
 .footer a:hover{
-	color: orangered;
-}
-.middle p a:hover{
 	color: orangered;
 }
