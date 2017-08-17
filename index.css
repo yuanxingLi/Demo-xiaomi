@@ -44,7 +44,8 @@
 	background-color: #FF6700;
 	margin-right: 187px;
 	background-image: url(img/mi-logo.png);
-	opacity: 1;
+	/*opacity: 1;*/
+	text-indent: -1000px;
 }
 .banner_middle{
 	float: left;
